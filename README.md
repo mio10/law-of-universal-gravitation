@@ -1,14 +1,12 @@
 # Law of universal gravitation
 
+![](preview.gif)
+
 ## Description
 Simulation of universal gravitation aka N-body problem written with SFML.
 
-![](thumbnail.png)
-
 ## Requirements
-Microsoft Visual Studio with SFML installed.
+Microsoft Visual Studio with SFML installed is probably required.
 
 ## Quick start
-1. Open MSVS.
-2. Open the solution, `gravity.sln`.
-3. Run the game via the debug button.
+Run `x64\Debug Dynamic\gravity.exe`.
